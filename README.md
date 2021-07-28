@@ -2,7 +2,7 @@
 ### Hi there 👋
 - 🔭 I’m working now
 - 🌱 I've been studying ...
-- 📫 How to reach me: [@bmqy](https://t.me/bmqy)
+- 📫 How to reach me: [@bmqy](https://t.me/bmqytg)
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  I ❤️ 💻
 
