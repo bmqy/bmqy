@@ -7,6 +7,15 @@
 - ⚡ Fun fact:  I ❤️ 💻
 
 <!--START_SECTION:bmqy-->
+
+## bmqy.net的每日更新(更新时间:2022-01-04 17:56:49 | 本部分通过Github Actions抓取RSS自动更新...)
+
+[快捷指令：图床](https://www.bmqy.net/2637.html)
+
+[七牛上传视频获取视频封面和缩略图](https://www.bmqy.net/2444.html)
+
+[注销网站得慎重](https://www.bmqy.net/2364.html)
+
 <!--END_SECTION:bmqy-->
 
 📊 **This week I spent my time on**
