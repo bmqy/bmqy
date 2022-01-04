@@ -6,6 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  I ❤️ 💻
 
+<!--START_SECTION:bmqy-->
+<!--END_SECTION:bmqy-->
+
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
