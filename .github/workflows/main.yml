@@ -3,7 +3,7 @@ name: 'bmqy'
 on:
   push:
   schedule:
-    - cron: '* */12 * * *'
+    - cron: '13 0/1 * * *'
 
 jobs:
   stale:
