@@ -8,7 +8,9 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2022-03-11 14:15:06 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2022-03-11 20:19:41 | 通过Github Actions自动更新~~)
+
+[vite项目使用tinymce插件axupimgs实现多图片上传](https://www.bmqy.net/2642.html)
 
 [node项目部署到ftp](https://www.bmqy.net/2640.html)
 
@@ -17,8 +19,6 @@
 [快捷指令：图床](https://www.bmqy.net/2637.html)
 
 [七牛上传视频获取视频封面和缩略图](https://www.bmqy.net/2444.html)
-
-[注销网站得慎重](https://www.bmqy.net/2364.html)
 
 <!--END_SECTION:bmqy-->
 
