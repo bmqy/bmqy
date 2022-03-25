@@ -8,7 +8,9 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2022-03-25 14:15:34 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2022-03-25 20:41:51 | 通过Github Actions自动更新~~)
+
+[apifox自动导入apidoc接口数据](https://www.bmqy.net/2645.html)
 
 [vite项目使用tinymce插件axupimgs实现多图片上传](https://www.bmqy.net/2642.html)
 
@@ -17,8 +19,6 @@
 [tomcat服务器上utf8编码的文件乱码解决方法](https://www.bmqy.net/2639.html)
 
 [快捷指令：图床](https://www.bmqy.net/2637.html)
-
-[七牛上传视频获取视频封面和缩略图](https://www.bmqy.net/2444.html)
 
 <!--END_SECTION:bmqy-->
 
