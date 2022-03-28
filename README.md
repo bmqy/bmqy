@@ -8,7 +8,9 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2022-03-28 14:15:41 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2022-03-28 20:20:58 | 通过Github Actions自动更新~~)
+
+[docker部署FreshRSS](https://www.bmqy.net/2648.html)
 
 [apifox自动导入apidoc接口数据](https://www.bmqy.net/2645.html)
 
@@ -17,8 +19,6 @@
 [node项目部署到ftp](https://www.bmqy.net/2640.html)
 
 [tomcat服务器上utf8编码的文件乱码解决方法](https://www.bmqy.net/2639.html)
-
-[快捷指令：图床](https://www.bmqy.net/2637.html)
 
 <!--END_SECTION:bmqy-->
 
