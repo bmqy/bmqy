@@ -24,20 +24,11 @@ def get_link_info(feed_url, num):
         result = result + "\n" + "[" + title + "](" + link + ")" + "\n"
     
     return result
-    
-
-
-
-
-
-
-
-
 def main():
 
 
     
-    bmqy_feed =  get_link_info("https://www.bmqy.net/feed", 5)
+    bmqy_feed =  get_link_info("https://www.bmqy.net/feed.xml", 5)
     print(bmqy_feed)
 
     insert_info = bmqy_feed
