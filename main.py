@@ -49,5 +49,4 @@ def main():
         f.write(new_readme_md_content)
 
 
-
 main()
