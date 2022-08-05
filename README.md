@@ -8,17 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2022-08-05 14:16:10 | 通过Github Actions自动更新~~)
-
-[docker部署freshrss](https://www.bmqy.net/2648.html)
-
-[apifox自动导入apidoc接口数据](https://www.bmqy.net/2645.html)
-
-[vite项目使用tinymce插件axupimgs实现多图片上传](https://www.bmqy.net/2642.html)
-
-[node项目部署到ftp](https://www.bmqy.net/2640.html)
-
-[tomcat服务器上utf8编码的文件乱码解决方法](https://www.bmqy.net/2639.html)
+### 北门清燕的博客(刷新时间:2022-08-05 20:24:59 | 通过Github Actions自动更新~~)
 
 <!--END_SECTION:bmqy-->
 
