@@ -8,7 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2022-12-05 08:54:54 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2022-12-05 14:14:16 | 通过Github Actions自动更新~~)
 
 [再次折腾hexo](https://www.bmqy.net/2649.html)
 
