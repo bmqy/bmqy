@@ -8,17 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2023-04-03 08:52:05 | 通过Github Actions自动更新~~)
-
-[再次折腾hexo](https://www.bmqy.net/2649.html)
-
-[docker部署freshrss](https://www.bmqy.net/2648.html)
-
-[apifox自动导入apidoc接口数据](https://www.bmqy.net/2645.html)
-
-[node项目部署到ftp](https://www.bmqy.net/2640.html)
-
-[vite项目使用tinymce插件axupimgs实现多图片上传](https://www.bmqy.net/2642.html)
+### 北门清燕的博客(刷新时间:2023-04-03 14:18:54 | 通过Github Actions自动更新~~)
 
 <!--END_SECTION:bmqy-->
 
