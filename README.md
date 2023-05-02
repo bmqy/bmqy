@@ -8,17 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2023-05-02 02:12:44 | 通过Github Actions自动更新~~)
-
-[测试ai](https://www.bmqy.net/2650.html)
-
-[再次折腾hexo](https://www.bmqy.net/2649.html)
-
-[docker部署freshrss](https://www.bmqy.net/2648.html)
-
-[apifox自动导入apidoc接口数据](https://www.bmqy.net/2645.html)
-
-[node项目部署到ftp](https://www.bmqy.net/2640.html)
+### 北门清燕的博客(刷新时间:2023-05-02 08:58:10 | 通过Github Actions自动更新~~)
 
 <!--END_SECTION:bmqy-->
 
