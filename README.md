@@ -8,9 +8,9 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2023-05-06 08:49:09 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2023-05-06 14:12:23 | 通过Github Actions自动更新~~)
 
-[测试ai](https://www.bmqy.net/2650.html)
+[测试AI](https://www.bmqy.net/2650.html)
 
 [再次折腾hexo](https://www.bmqy.net/2649.html)
 
@@ -18,7 +18,7 @@
 
 [apifox自动导入apidoc接口数据](https://www.bmqy.net/2645.html)
 
-[node项目部署到ftp](https://www.bmqy.net/2640.html)
+[快捷指令：图床](https://www.bmqy.net/2637.html)
 
 <!--END_SECTION:bmqy-->
 
