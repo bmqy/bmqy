@@ -8,7 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2023-05-14 08:55:28 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2023-05-14 14:12:04 | 通过Github Actions自动更新~~)
 
 [集成Elog使用notion数据库](https://www.bmqy.net/2651.html)
 
