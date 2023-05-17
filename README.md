@@ -8,17 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2023-05-17 20:19:00 | 通过Github Actions自动更新~~)
-
-[推荐正在玩的游戏：SimpleMMO](https://www.bmqy.net/2652.html)
-
-[集成Elog使用notion数据库](https://www.bmqy.net/2651.html)
-
-[测试AI](https://www.bmqy.net/2650.html)
-
-[再次折腾hexo](https://www.bmqy.net/2649.html)
-
-[docker部署freshrss](https://www.bmqy.net/2648.html)
+### 北门清燕的博客(刷新时间:2023-05-18 02:16:58 | 通过Github Actions自动更新~~)
 
 <!--END_SECTION:bmqy-->
 
