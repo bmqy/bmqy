@@ -8,11 +8,11 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2023-06-10 02:12:33 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2023-06-10 08:56:46 | 通过Github Actions自动更新~~)
 
 [关于笑果我觉得还是罗翔老师说的好](https://www.bmqy.net/2653.html)
 
-[推荐正在玩的游戏：SimpleMMO](https://www.bmqy.net/2652.html)
+[推荐正在玩的游戏：SimpleMMO，附游戏助手SMMOHelper](https://www.bmqy.net/2652.html)
 
 [集成Elog使用notion数据库](https://www.bmqy.net/2651.html)
 
