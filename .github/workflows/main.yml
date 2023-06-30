@@ -15,7 +15,7 @@ jobs:
       steps:
         - name: Run with setup-python 3.9
           uses: actions/setup-python@v4
-            with:
+          with:
             python-version: '3.9'
             update-environment: false
             cache: 'pipenv'
