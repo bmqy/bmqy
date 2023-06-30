@@ -20,13 +20,13 @@ jobs:
             update-environment: false
             cache: 'pipenv'
         - name: Install pipenv
-            run: pip3 install --user pipenv
+          run: pip3 install --user pipenv
         - name: Install dependecies
-            run:  pipenv --python python3 && pipenv install
+          run:  pipenv --python python3 && pipenv install
         - name: Build
-            run: pipenv run build
+          run: pipenv run build
         - name: Commit and push if changed   # 更新README.md
-            run: |
+          run: |
             git diff
             git config --global user.email "qq88268459@126.com"
             git config --global user.name "bmqy"
