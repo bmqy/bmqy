@@ -8,7 +8,9 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2023-07-25 02:18:09 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2023-07-25 09:18:56 | 通过Github Actions自动更新~~)
+
+[罗刹海市](https://www.bmqy.net/2654.html)
 
 [关于笑果我觉得还是罗翔老师说的好](https://www.bmqy.net/2653.html)
 
@@ -17,8 +19,6 @@
 [集成Elog使用notion数据库](https://www.bmqy.net/2651.html)
 
 [测试AI](https://www.bmqy.net/2650.html)
-
-[再次折腾hexo](https://www.bmqy.net/2649.html)
 
 <!--END_SECTION:bmqy-->
 
