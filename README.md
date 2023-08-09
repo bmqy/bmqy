@@ -8,7 +8,9 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2023-08-09 02:17:00 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2023-08-09 09:10:06 | 通过Github Actions自动更新~~)
+
+[地震云](https://www.bmqy.net/2655.html)
 
 [罗刹海市](https://www.bmqy.net/2654.html)
 
@@ -17,8 +19,6 @@
 [推荐正在玩的游戏：SimpleMMO，附游戏助手SMMOHelper](https://www.bmqy.net/2652.html)
 
 [集成Elog使用notion数据库](https://www.bmqy.net/2651.html)
-
-[测试AI](https://www.bmqy.net/2650.html)
 
 <!--END_SECTION:bmqy-->
 
