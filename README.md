@@ -8,7 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2023-08-15 20:24:00 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2023-08-16 02:15:20 | 通过Github Actions自动更新~~)
 
 [将chrome谷歌浏览器轻松打造成rss阅读器](https://www.bmqy.net/2656.html)
 
