@@ -8,7 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2024-05-27 20:27:35 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2024-05-28 02:18:45 | 通过Github Actions自动更新~~)
 
 [【原创】油猴脚本：哪吒VPS橱窗后台脚本](https://www.bmqy.net/2666.html)
 
