@@ -8,7 +8,9 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2024-06-07 09:07:49 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2024-06-07 14:21:15 | 通过Github Actions自动更新~~)
+
+[serv00部署FreshRSS](https://www.bmqy.net/2667.html)
 
 [【原创】油猴脚本：哪吒VPS橱窗后台脚本](https://www.bmqy.net/2666.html)
 
@@ -17,8 +19,6 @@
 [哪吒面板default主题小鸡底部增加购买同款按钮](https://www.bmqy.net/2664.html)
 
 [Typecho二开魔改简单指北](https://www.bmqy.net/2663.html)
-
-[【原创】油猴脚本：论坛快捷回帖](https://www.bmqy.net/2662.html)
 
 <!--END_SECTION:bmqy-->
 
