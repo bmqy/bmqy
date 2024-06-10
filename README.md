@@ -8,7 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2024-06-10 20:28:58 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2024-06-11 02:19:31 | 通过Github Actions自动更新~~)
 
 [serv00部署FreshRSS](https://www.bmqy.net/2667.html)
 
