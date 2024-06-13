@@ -8,7 +8,9 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2024-06-13 20:28:21 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2024-06-14 02:20:01 | 通过Github Actions自动更新~~)
+
+[继续折腾astro](https://www.bmqy.net/2670.html)
 
 [serv00部署FreshRSS](https://www.bmqy.net/2667.html)
 
@@ -17,8 +19,6 @@
 [哪吒面板终极进化之VPS橱窗](https://www.bmqy.net/2665.html)
 
 [哪吒面板default主题小鸡底部增加购买同款按钮](https://www.bmqy.net/2664.html)
-
-[Typecho二开魔改简单指北](https://www.bmqy.net/2663.html)
 
 <!--END_SECTION:bmqy-->
 
