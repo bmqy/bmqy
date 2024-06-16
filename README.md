@@ -8,7 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2024-06-16 09:11:27 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2024-06-16 14:20:04 | 通过Github Actions自动更新~~)
 
 [继续折腾astro](https://www.bmqy.net/2670.html)
 
