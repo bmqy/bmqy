@@ -8,7 +8,9 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2024-06-18 14:20:42 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2024-06-18 20:28:32 | 通过Github Actions自动更新~~)
+
+[为哪吒面板增加视频背景](https://www.bmqy.net/2671.html)
 
 [继续折腾astro](https://www.bmqy.net/2670.html)
 
@@ -17,8 +19,6 @@
 [【原创】油猴脚本：哪吒VPS橱窗后台脚本](https://www.bmqy.net/2666.html)
 
 [哪吒面板终极进化之VPS橱窗](https://www.bmqy.net/2665.html)
-
-[哪吒面板default主题小鸡底部增加购买同款按钮](https://www.bmqy.net/2664.html)
 
 <!--END_SECTION:bmqy-->
 
