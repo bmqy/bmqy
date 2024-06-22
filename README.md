@@ -8,7 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2024-06-22 02:19:59 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2024-06-22 09:05:15 | 通过Github Actions自动更新~~)
 
 [为哪吒面板增加视频背景](https://www.bmqy.net/2671.html)
 
