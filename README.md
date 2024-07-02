@@ -8,7 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2024-07-02 09:07:16 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2024-07-02 14:22:11 | 通过Github Actions自动更新~~)
 
 [windows服务器安装mysql踩坑指北](https://www.bmqy.net/2672.html)
 
