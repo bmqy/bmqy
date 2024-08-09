@@ -8,17 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2024-08-09 14:22:29 | 通过Github Actions自动更新~~)
-
-[windows服务器安装mysql踩坑指北](https://www.bmqy.net/2672.html)
-
-[为哪吒面板增加视频背景](https://www.bmqy.net/2671.html)
-
-[继续折腾astro](https://www.bmqy.net/2670.html)
-
-[serv00部署FreshRSS](https://www.bmqy.net/2667.html)
-
-[【原创】油猴脚本：哪吒VPS橱窗后台脚本](https://www.bmqy.net/2666.html)
+### 北门清燕的博客(刷新时间:2024-08-09 20:30:08 | 通过Github Actions自动更新~~)
 
 <!--END_SECTION:bmqy-->
 
