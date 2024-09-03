@@ -8,7 +8,9 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2024-09-03 09:12:36 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2024-09-03 14:22:47 | 通过Github Actions自动更新~~)
+
+[ios17.0可以安装Trollstore了](https://bmqy.net/2674.html)
 
 [windows服务器安装mysql踩坑指北](https://bmqy.net/2672.html)
 
@@ -17,8 +19,6 @@
 [继续折腾astro](https://bmqy.net/2670.html)
 
 [serv00部署FreshRSS](https://bmqy.net/2667.html)
-
-[【原创】油猴脚本：哪吒VPS橱窗后台脚本](https://bmqy.net/2666.html)
 
 <!--END_SECTION:bmqy-->
 
