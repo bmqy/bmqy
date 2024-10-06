@@ -8,7 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2024-10-06 20:30:31 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2024-10-07 02:20:32 | 通过Github Actions自动更新~~)
 
 [ios17.0可以安装Trollstore了](https://bmqy.net/2674.html)
 
