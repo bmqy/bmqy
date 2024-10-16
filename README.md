@@ -8,17 +8,7 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2024-10-10 09:17:18 | 通过Github Actions自动更新~~)
-
-[ios17.0可以安装Trollstore了](https://bmqy.net/2674.html)
-
-[windows服务器安装mysql踩坑指北](https://bmqy.net/2672.html)
-
-[为哪吒面板增加视频背景](https://bmqy.net/2671.html)
-
-[继续折腾astro](https://bmqy.net/2670.html)
-
-[serv00部署FreshRSS](https://bmqy.net/2667.html)
+### 北门清燕的博客(刷新时间:2024-10-17 02:23:04 | 通过Github Actions自动更新~~)
 
 <!--END_SECTION:bmqy-->
 
