@@ -8,7 +8,9 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2025-04-05 09:22:58 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2025-04-05 14:23:57 | 通过Github Actions自动更新~~)
+
+[Notion工具人bot](https://bmqy.net/2676.html)
 
 [VPS橱窗 - 一个简单的哪吒面板主题](https://bmqy.net/2675.html)
 
@@ -17,8 +19,6 @@
 [windows服务器安装mysql踩坑指北](https://bmqy.net/2672.html)
 
 [为哪吒面板增加视频背景](https://bmqy.net/2671.html)
-
-[继续折腾astro](https://bmqy.net/2670.html)
 
 <!--END_SECTION:bmqy-->
 
