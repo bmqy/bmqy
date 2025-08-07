@@ -22,5 +22,5 @@
 
 <!--END_SECTION:bmqy-->
 
-### Thank you for the visit.
-![](http://profile-counter.glitch.me/bmqy/count.svg)
+### Github Activity Graph.
+[![bmqy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bmqy&theme=github)](https://github.com/bmqy)
