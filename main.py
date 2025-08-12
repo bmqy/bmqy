@@ -1,9 +1,11 @@
-import feedparser
-import time
 import os
 import re
-import pytz
+import time
 from datetime import datetime
+
+import feedparser
+import pytz
+
 
 def get_link_info(feed_url, num):
 
@@ -28,7 +30,7 @@ def main():
 
 
     
-    bmqy_feed =  get_link_info("https://www.bmqy.net/feed.xml", 5)
+    bmqy_feed =  get_link_info("https://bmqy.net/feed.xml", 5)
     print(bmqy_feed)
 
     insert_info = bmqy_feed
