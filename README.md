@@ -8,7 +8,9 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2026-02-04 14:53:37 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2026-02-04 21:00:38 | 通过Github Actions自动更新~~)
+
+[【vscode扩展】apis-tester](https://bmqy.net/2677.html)
 
 [Notion工具人bot](https://bmqy.net/2676.html)
 
@@ -17,8 +19,6 @@
 [ios17.0可以安装Trollstore了](https://bmqy.net/2674.html)
 
 [windows服务器安装mysql踩坑指北](https://bmqy.net/2672.html)
-
-[为哪吒面板增加视频背景](https://bmqy.net/2671.html)
 
 <!--END_SECTION:bmqy-->
 
