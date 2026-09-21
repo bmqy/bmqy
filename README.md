@@ -8,17 +8,17 @@
 
 <!--START_SECTION:bmqy-->
 
-### 北门清燕的博客(刷新时间:2026-09-21 11:39:23 | 通过Github Actions自动更新~~)
+### 北门清燕的博客(刷新时间:2026-09-21 20:09:19 | 通过Github Actions自动更新~~)
 
-[DBeaver WebDAV 备份插件](https://na.bmqy.net/2915.html)
+[DBeaver WebDAV 备份插件](https://bmqy.net/2915.html)
 
-[🎙️ 科技热文播报 - 2026-03-14](https://na.bmqy.net/2710.html)
+[🎙️ 科技热文播报 - 2026-03-14](https://bmqy.net/2710.html)
 
-[【vscode扩展】apis-tester](https://na.bmqy.net/2677.html)
+[【vscode扩展】apis-tester](https://bmqy.net/2677.html)
 
-[Notion工具人bot](https://na.bmqy.net/2676.html)
+[Notion工具人bot](https://bmqy.net/2676.html)
 
-[VPS橱窗 - 一个简单的哪吒面板主题](https://na.bmqy.net/2675.html)
+[VPS橱窗 - 一个简单的哪吒面板主题](https://bmqy.net/2675.html)
 
 <!--END_SECTION:bmqy-->
 
